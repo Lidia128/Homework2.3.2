@@ -15,8 +15,8 @@ public class Amphibians extends Animals {
         System.out.println("Перемещается по земле.");
     }
 
-    public void printInfoAmphibians () {
-        System.out.println(getName() + " " + getAge() + " лет живет в " + getLivingEnvironment()+".");
+    public void printInfoAmphibians() {
+        System.out.println(getName() + " " + getAge() + " лет живет в " + getLivingEnvironment() + ".");
 
     }
 }

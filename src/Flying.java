@@ -17,6 +17,7 @@ public class Flying extends Birds {
     public void sleep() {
         super.sleep();
     }
+
     public void printInfoFlying() {
         System.out.println(getName() + " " + getAge() + " лет живет в " + getLivingEnvironment() + ".");
     }

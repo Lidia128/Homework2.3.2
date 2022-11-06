@@ -5,6 +5,7 @@ public class Birds extends Animals {
 
     @Override
     public void eat() {
+        System.out.println("Клюет зерна");
 
     }
 
